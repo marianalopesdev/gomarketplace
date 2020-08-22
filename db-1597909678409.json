@@ -2,25 +2,25 @@
   "products": [
     {
       "id": "123",
-      "title": "camiseta the office",
+      "title": "camiseta heroicas",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 50
     },
     {
       "id": "1234",
-      "title": "camiseta seinfeld",
+      "title": "camiseta erasure",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 60
     },
     {
       "id": "12345",
-      "title": "camiseta arrested development",
+      "title": "camiseta franz ferdinand",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 70
     },
     {
       "id": "123456",
-      "title": "camiseta parks and recreation",
+      "title": "camiseta soad",
       "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
       "price": 80
     }
